@@ -12,14 +12,14 @@ A simple and interactive to-do list application to help you manage your tasks ef
 
 ## Demo
 
-Check out the live demo: [Live Demo](#)
+Check out the live demo: [Live Demo](https://maylo1yzx.github.io/Maylo-Todo/)
 
 
 ## Follow Me
 
 Stay updated and check out my other projects:
 
-- **Instagram**: [https://www.instagram.com/maylo.yzx/](#)
+- **Instagram**: [maylo](https://www.instagram.com/maylo.yzx/)
 
 ## Technology Used
 
